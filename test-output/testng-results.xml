@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="9" total="14" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[2019-09-11 11:42:41,936 INFO  com.sytner.menuItems.MenuItems_ - ============== START: LOGIN ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:42:50,855 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_001_AboutUs ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:42:50,855 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on About us menu item
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:42:53,067 INFO  com.sytner.menuItems.MenuItems_ - ============== AND: MenuItems_001_AboutUs ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:42:53,069 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_002_News ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:42:53,069 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:42:54,554 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on News menu item
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:42:57,325 INFO  com.sytner.menuItems.MenuItems_ - ============== AND: MenuItems_002_News ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:42:57,327 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_003_CustemerService ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:42:57,327 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:42:58,925 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Customer Service menu item
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:43:01,205 INFO  com.sytner.menuItems.MenuItems_ - ============== AND: MenuItems_003_CustemerService ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:43:01,207 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_004_Careers ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:43:01,207 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:43:02,971 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Careers menu item
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:43:03,711 INFO  com.sytner.menuItems.MenuItems_ - ============== AND: MenuItems_004_Careers ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:43:03,713 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_005_Finance ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:43:03,714 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:43:04,249 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Finance menu item
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:43:24,510 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_006_Finance ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:43:24,510 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:43:25,746 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Finance menu item
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:43:45,992 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_007_UsedCarSearch ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:43:45,992 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:43:47,870 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Used Car Search menu item
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:44:08,097 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_008_NewCars ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:44:08,098 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:44:09,414 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on New Cars menu item
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:44:29,664 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_009_CarMaintenance ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:44:29,665 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:44:31,262 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Car Maintenance menu item
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:44:51,524 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_010_Promotions ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:44:51,525 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:44:51,525 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Promotions menu item
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:44:51,525 INFO  com.sytner.menuItems.MenuItems_ - ============== AND: MenuItems_010_Promotions ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:44:51,527 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_011_BusinessUsers ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:44:51,528 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:44:52,837 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Business Users menu item
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:45:13,029 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_012_SellYourCar ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:45:13,030 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:45:14,333 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on SellYour Car menu item
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:45:44,890 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_013_DealerLocator ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:45:44,891 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:45:46,551 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Dealer Locator menu item
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:46:06,767 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_014_HomeIcon ============== 
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:46:06,768 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+    </line>
+    <line>
+      <![CDATA[2019-09-11 11:46:08,470 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Dealer Locator menu item
+]]>
+    </line>
+  </reporter-output>
+  <suite name="Sytner" duration-ms="226791" started-at="2019-09-11T04:42:41Z" finished-at="2019-09-11T04:46:28Z">
+    <groups>
+    </groups>
+    <test name="Run on CHROME" duration-ms="226791" started-at="2019-09-11T04:42:41Z" finished-at="2019-09-11T04:46:28Z">
+      <class name="com.sytner.menuItems.MenuItems_">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="beforeClass" is-config="true" duration-ms="8916" started-at="2019-09-11T11:42:41Z" finished-at="2019-09-11T11:42:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[2019-09-11 11:42:41,936 INFO  com.sytner.menuItems.MenuItems_ - ============== START: LOGIN ============== 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="MenuItems_001_AboutUs(java.lang.reflect.Method)[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="MenuItems_001_AboutUs" duration-ms="2220" started-at="2019-09-11T11:42:50Z" finished-at="2019-09-11T11:42:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sytner.menuItems.MenuItems_.MenuItems_001_AboutUs(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[2019-09-11 11:42:50,855 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_001_AboutUs ============== 
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:42:50,855 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on About us menu item
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:42:53,067 INFO  com.sytner.menuItems.MenuItems_ - ============== AND: MenuItems_001_AboutUs ============== 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MenuItems_001_AboutUs -->
+        <test-method status="PASS" signature="MenuItems_002_News(java.lang.reflect.Method)[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="MenuItems_002_News" duration-ms="4257" started-at="2019-09-11T11:42:53Z" finished-at="2019-09-11T11:42:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sytner.menuItems.MenuItems_.MenuItems_002_News(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[2019-09-11 11:42:53,069 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_002_News ============== 
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:42:53,069 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:42:54,554 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on News menu item
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:42:57,325 INFO  com.sytner.menuItems.MenuItems_ - ============== AND: MenuItems_002_News ============== 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MenuItems_002_News -->
+        <test-method status="PASS" signature="MenuItems_003_CustemerService(java.lang.reflect.Method)[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="MenuItems_003_CustemerService" duration-ms="3879" started-at="2019-09-11T11:42:57Z" finished-at="2019-09-11T11:43:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sytner.menuItems.MenuItems_.MenuItems_003_CustemerService(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[2019-09-11 11:42:57,327 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_003_CustemerService ============== 
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:42:57,327 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:42:58,925 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Customer Service menu item
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:43:01,205 INFO  com.sytner.menuItems.MenuItems_ - ============== AND: MenuItems_003_CustemerService ============== 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MenuItems_003_CustemerService -->
+        <test-method status="PASS" signature="MenuItems_004_Careers(java.lang.reflect.Method)[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="MenuItems_004_Careers" duration-ms="2506" started-at="2019-09-11T11:43:01Z" finished-at="2019-09-11T11:43:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sytner.menuItems.MenuItems_.MenuItems_004_Careers(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[2019-09-11 11:43:01,207 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_004_Careers ============== 
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:43:01,207 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:43:02,971 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Careers menu item
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:43:03,711 INFO  com.sytner.menuItems.MenuItems_ - ============== AND: MenuItems_004_Careers ============== 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MenuItems_004_Careers -->
+        <test-method status="FAIL" signature="MenuItems_005_Finance(java.lang.reflect.Method)[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="MenuItems_005_Finance" duration-ms="20784" started-at="2019-09-11T11:43:03Z" finished-at="2019-09-11T11:43:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sytner.menuItems.MenuItems_.MenuItems_005_Finance(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='Finance']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='Finance']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:80)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)
+	at commons.AbstractPage.waitForControlVisible(AbstractPage.java:542)
+	at commons.AbstractPage.ClickMenuItems(AbstractPage.java:610)
+	at com.sytner.menuItems.MenuItems_.MenuItems_005_Finance(MenuItems_.java:72)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[2019-09-11 11:43:03,713 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_005_Finance ============== 
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:43:03,714 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:43:04,249 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Finance menu item
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MenuItems_005_Finance -->
+        <test-method status="FAIL" signature="MenuItems_006_Finance(java.lang.reflect.Method)[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="MenuItems_006_Finance" duration-ms="21480" started-at="2019-09-11T11:43:24Z" finished-at="2019-09-11T11:43:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sytner.menuItems.MenuItems_.MenuItems_006_Finance(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='Finance']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='Finance']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:80)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)
+	at commons.AbstractPage.waitForControlVisible(AbstractPage.java:542)
+	at commons.AbstractPage.ClickMenuItems(AbstractPage.java:610)
+	at com.sytner.menuItems.MenuItems_.MenuItems_006_Finance(MenuItems_.java:84)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[2019-09-11 11:43:24,510 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_006_Finance ============== 
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:43:24,510 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:43:25,746 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Finance menu item
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MenuItems_006_Finance -->
+        <test-method status="FAIL" signature="MenuItems_007_UsedCarSearch(java.lang.reflect.Method)[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="MenuItems_007_UsedCarSearch" duration-ms="22103" started-at="2019-09-11T11:43:45Z" finished-at="2019-09-11T11:44:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sytner.menuItems.MenuItems_.MenuItems_007_UsedCarSearch(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='Used Car Search']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='Used Car Search']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:80)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)
+	at commons.AbstractPage.waitForControlVisible(AbstractPage.java:542)
+	at commons.AbstractPage.ClickMenuItems(AbstractPage.java:610)
+	at com.sytner.menuItems.MenuItems_.MenuItems_007_UsedCarSearch(MenuItems_.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[2019-09-11 11:43:45,992 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_007_UsedCarSearch ============== 
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:43:45,992 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:43:47,870 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Used Car Search menu item
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MenuItems_007_UsedCarSearch -->
+        <test-method status="FAIL" signature="MenuItems_008_NewCars(java.lang.reflect.Method)[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="MenuItems_008_NewCars" duration-ms="21563" started-at="2019-09-11T11:44:08Z" finished-at="2019-09-11T11:44:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sytner.menuItems.MenuItems_.MenuItems_008_NewCars(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='New Cars']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='New Cars']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:80)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)
+	at commons.AbstractPage.waitForControlVisible(AbstractPage.java:542)
+	at commons.AbstractPage.ClickMenuItems(AbstractPage.java:610)
+	at com.sytner.menuItems.MenuItems_.MenuItems_008_NewCars(MenuItems_.java:108)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[2019-09-11 11:44:08,097 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_008_NewCars ============== 
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:44:08,098 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:44:09,414 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on New Cars menu item
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MenuItems_008_NewCars -->
+        <test-method status="FAIL" signature="MenuItems_009_CarMaintenance(java.lang.reflect.Method)[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="MenuItems_009_CarMaintenance" duration-ms="21858" started-at="2019-09-11T11:44:29Z" finished-at="2019-09-11T11:44:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sytner.menuItems.MenuItems_.MenuItems_009_CarMaintenance(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='Car Maintenance']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='Car Maintenance']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:80)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)
+	at commons.AbstractPage.waitForControlVisible(AbstractPage.java:542)
+	at commons.AbstractPage.ClickMenuItems(AbstractPage.java:610)
+	at com.sytner.menuItems.MenuItems_.MenuItems_009_CarMaintenance(MenuItems_.java:120)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[2019-09-11 11:44:29,664 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_009_CarMaintenance ============== 
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:44:29,665 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:44:31,262 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Car Maintenance menu item
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MenuItems_009_CarMaintenance -->
+        <test-method status="PASS" signature="MenuItems_010_Promotions(java.lang.reflect.Method)[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="MenuItems_010_Promotions" duration-ms="3" started-at="2019-09-11T11:44:51Z" finished-at="2019-09-11T11:44:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sytner.menuItems.MenuItems_.MenuItems_010_Promotions(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[2019-09-11 11:44:51,524 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_010_Promotions ============== 
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:44:51,525 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:44:51,525 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Promotions menu item
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:44:51,525 INFO  com.sytner.menuItems.MenuItems_ - ============== AND: MenuItems_010_Promotions ============== 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MenuItems_010_Promotions -->
+        <test-method status="FAIL" signature="MenuItems_011_BusinessUsers(java.lang.reflect.Method)[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="MenuItems_011_BusinessUsers" duration-ms="21500" started-at="2019-09-11T11:44:51Z" finished-at="2019-09-11T11:45:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sytner.menuItems.MenuItems_.MenuItems_011_BusinessUsers(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='Business Users']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='Business Users']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:80)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)
+	at commons.AbstractPage.waitForControlVisible(AbstractPage.java:542)
+	at commons.AbstractPage.ClickMenuItems(AbstractPage.java:610)
+	at com.sytner.menuItems.MenuItems_.MenuItems_011_BusinessUsers(MenuItems_.java:144)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[2019-09-11 11:44:51,527 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_011_BusinessUsers ============== 
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:44:51,528 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:44:52,837 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Business Users menu item
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MenuItems_011_BusinessUsers -->
+        <test-method status="FAIL" signature="MenuItems_012_SellYourCar(java.lang.reflect.Method)[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="MenuItems_012_SellYourCar" duration-ms="31857" started-at="2019-09-11T11:45:13Z" finished-at="2019-09-11T11:45:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sytner.menuItems.MenuItems_.MenuItems_012_SellYourCar(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='SellYour Car']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='SellYour Car']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:80)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)
+	at commons.AbstractPage.waitForControlVisible(AbstractPage.java:542)
+	at commons.AbstractPage.ClickMenuItems(AbstractPage.java:610)
+	at com.sytner.menuItems.MenuItems_.MenuItems_012_SellYourCar(MenuItems_.java:156)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='SellYour Car']"}
+  (Session info: chrome=76.0.3809.132)
+  (Driver info: chromedriver=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2
+*** Element info: {Using=xpath, value=//a[@title='SellYour Car']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:899)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:41)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:238)
+	... 23 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[2019-09-11 11:45:13,029 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_012_SellYourCar ============== 
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:45:13,030 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:45:14,333 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on SellYour Car menu item
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MenuItems_012_SellYourCar -->
+        <test-method status="FAIL" signature="MenuItems_013_DealerLocator(java.lang.reflect.Method)[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="MenuItems_013_DealerLocator" duration-ms="21874" started-at="2019-09-11T11:45:44Z" finished-at="2019-09-11T11:46:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sytner.menuItems.MenuItems_.MenuItems_013_DealerLocator(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='Dealer Locator']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='Dealer Locator']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:80)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)
+	at commons.AbstractPage.waitForControlVisible(AbstractPage.java:542)
+	at commons.AbstractPage.ClickMenuItems(AbstractPage.java:610)
+	at com.sytner.menuItems.MenuItems_.MenuItems_013_DealerLocator(MenuItems_.java:168)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[2019-09-11 11:45:44,890 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_013_DealerLocator ============== 
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:45:44,891 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:45:46,551 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Dealer Locator menu item
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MenuItems_013_DealerLocator -->
+        <test-method status="FAIL" signature="MenuItems_014_HomeIcon(java.lang.reflect.Method)[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="MenuItems_014_HomeIcon" duration-ms="21939" started-at="2019-09-11T11:46:06Z" finished-at="2019-09-11T11:46:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.sytner.menuItems.MenuItems_.MenuItems_014_HomeIcon(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='Dealer Locator']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 20 seconds waiting for visibility of element located by By.xpath: //a[@title='Dealer Locator']
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'DESKTOP-QR9O3EA', ip: '192.168.2.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51348}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.90 (a6dcaf7e3ec6f70a194cc25e8149475c6590e025-refs/branch-heads/3770@{#1003}), userDataDir=C:\Users\LTTrang\AppData\Local\Temp\scoped_dir11360_22754}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c097aabf690e66a99087fc6ad190b7a2
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:80)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)
+	at commons.AbstractPage.waitForControlVisible(AbstractPage.java:542)
+	at commons.AbstractPage.ClickMenuItems(AbstractPage.java:610)
+	at com.sytner.menuItems.MenuItems_.MenuItems_014_HomeIcon(MenuItems_.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[2019-09-11 11:46:06,767 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_014_HomeIcon ============== 
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:46:06,768 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+]]>
+            </line>
+            <line>
+              <![CDATA[2019-09-11 11:46:08,470 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Dealer Locator menu item
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MenuItems_014_HomeIcon -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.sytner.menuItems.MenuItems_@4abdb505]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-09-11T11:46:28Z" finished-at="2019-09-11T11:46:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.sytner.menuItems.MenuItems_ -->
+    </test> <!-- Run on CHROME -->
+  </suite> <!-- Sytner -->
+</testng-results>

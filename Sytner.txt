@@ -1,0 +1,11 @@
+2019-09-11 14:31:21,442 INFO  com.sytner.menuItems.MenuItems_ - ============== START: LOGIN ============== 
+2019-09-11 14:31:37,235 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_001_AboutUs ============== 
+2019-09-11 14:31:37,235 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on About us menu item
+2019-09-11 14:31:39,954 INFO  com.sytner.menuItems.MenuItems_ - ============== AND: MenuItems_001_AboutUs ============== 
+2019-09-11 14:31:39,955 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_002_News ============== 
+2019-09-11 14:31:39,956 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+2019-09-11 14:31:43,495 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on News menu item
+2019-09-11 14:31:46,126 INFO  com.sytner.menuItems.MenuItems_ - ============== AND: MenuItems_002_News ============== 
+2019-09-11 14:31:46,131 INFO  com.sytner.menuItems.MenuItems_ - ============== START: MenuItems_003_CustemerService ============== 
+2019-09-11 14:31:46,132 INFO  com.sytner.menuItems.MenuItems_ - Step 01: Open Sytner site
+2019-09-11 14:31:47,688 INFO  com.sytner.menuItems.MenuItems_ - Step 02: Click on Customer Service menu item

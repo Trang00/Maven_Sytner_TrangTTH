@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.sytner.menuItems.MenuItems_">
+        <methods>
+          <include name="TC_001_CustomerIDCannotEmpty"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.sytner.menuItems.MenuItems_ -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

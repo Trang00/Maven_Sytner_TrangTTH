@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sytner]" parallel="tests">
+  <parameter name="browser" value="chrome"/>
+  <test name="Run on CHROME(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.sytner.menuItems.MenuItems_">
+        <methods>
+          <include name="MenuItems_008_NewCars" invocation-numbers="0"/>
+          <include name="MenuItems_006_Finance" invocation-numbers="0"/>
+          <include name="MenuItems_014_HomeIcon" invocation-numbers="0"/>
+          <include name="beforeClass"/>
+          <include name="MenuItems_007_UsedCarSearch" invocation-numbers="0"/>
+          <include name="MenuItems_009_CarMaintenance" invocation-numbers="0"/>
+          <include name="afterClass"/>
+          <include name="MenuItems_012_SellYourCar" invocation-numbers="0"/>
+          <include name="MenuItems_013_DealerLocator" invocation-numbers="0"/>
+          <include name="MenuItems_005_Finance" invocation-numbers="0"/>
+          <include name="MenuItems_011_BusinessUsers" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.sytner.menuItems.MenuItems_ -->
+    </classes>
+  </test> <!-- Run on CHROME(failed) -->
+</suite> <!-- Failed suite [Sytner] -->
